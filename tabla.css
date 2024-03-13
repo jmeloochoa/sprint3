@@ -1,0 +1,39 @@
+*{
+    background-color: rgb(228, 207, 179);
+
+}
+h1{
+    text-align: center;
+}
+nav{
+    
+    text-align: end;
+    border-radius: 30px;
+     font-size: large;
+     font-family:cursive;
+    }  
+    a {
+        background-color: rgb(211, 246, 12);
+        color: black;
+        border-radius: 30px;
+        font-size: larger;
+        font-family: cursive;
+       }
+       div{
+        color: black;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       }
+      h2{
+        border: 3px solid black;
+        background-color: rgb(128, 255, 0);
+      } 
+      table,th,tr,td{
+        border: 3px solid red;
+        border-collapse: collapse;
+      }
+    th{
+        background-color: aqua;
+    }
+    td{
+        background-color: rgb(149, 149, 170);
+    }
